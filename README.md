@@ -29,7 +29,7 @@ I'm open to new job opportunities!
 <div>
   <a href="https://github.com/thiagorodriguespantoja">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopantoja&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopantoja&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopantoja&layout=compact&langs_count=7&theme=nord&cache_seconds=1800"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -58,6 +58,7 @@ I'm open to new job opportunities!
   <a href="https://www.tiktok.com/@euthiagorpantoja" target="_blank"><img src="https://img.shields.io/badge/-TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/euthiagopantoja" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
 
 
 
