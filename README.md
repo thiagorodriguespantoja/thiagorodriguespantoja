@@ -6,8 +6,28 @@ My focus is on AWS, Kubernetes, Docker, Terraform, Ansible, CI/CD pipelines, and
 
 I'm open to new job opportunities!
 
+### Professional Achievements:
+- **Scalable Infrastructure Development**: At Enkel TI, I developed and managed robust infrastructures using AWS, Docker, and Kubernetes, which resulted in a 30% reduction in implementation time and a significant increase in system availability to 99.9%.
+- **Infrastructure as Code (IaC) Automation**: I am adept at automating complex environments using IaC practices with tools such as AWS CloudFormation, Terraform, and Ansible, ensuring high availability, resilience, and streamlined deployment processes.
+- **Container Orchestration**: My work with Kubernetes, Docker, and Helm has enabled seamless container orchestration and efficient package management, which is essential for modern cloud-native applications.
+- **Agile Methodologies & CI/CD Pipelines**: I have successfully implemented agile methodologies and CI/CD pipelines that ensure continuous, reliable, and efficient software delivery, aligning development and operations for maximum productivity.
+- **Resource Monitoring & Performance Management**: Using tools like Amazon CloudWatch, I ensure that systems are performing optimally and meet the rigorous availability demands of today’s enterprise environments.
+
+### Certifications & Technical Skills:
+- **AWS Cloud Practitioner**
+- **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
+- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
+- **Oracle Cloud Data Management 2023 Certified Foundations Associate**
+
+### Technical Proficiencies:
+- **Cloud Solutions**: Expertise in AWS, Oracle Cloud, Azure, and GCP, ensuring that solutions are tailored to specific business needs.
+- **Container Orchestration**: Advanced skills in Kubernetes, Docker, and Helm for efficient management of containerized environments.
+- **Infrastructure Automation**: Proficient in Terraform and Ansible for automated provisioning and configuration management, ensuring system resilience and high availability.
+- **System Administration**: Extensive experience with both Linux and Windows Server systems, managing environments across cloud and on-premise setups.
+- **Development & Collaboration Tools**: Skilled in using GitLab, Bitbucket, Python, Java, and Azure DevOps to support seamless collaboration and efficient code management.
+
 <div>
-  <a href="https://github.com/thiagopantoja">
+  <a href="https://github.com/thiagorodriguespantoja">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopantoja&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopantoja&layout=compact&langs_count=7&theme=nord"/>
 </div>
@@ -36,7 +56,9 @@ I'm open to new job opportunities!
   <a href="https://www.facebook.com/thiagorpantoja" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiagorpantoja/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@euthiagorpantoja" target="_blank"><img src="https://img.shields.io/badge/-TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/euthiagopantoja" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
 
 
 <!--
